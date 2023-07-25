@@ -29,3 +29,8 @@ The issue can easily be resolved by just searching the error on the internet as 
 17. clear - to clear the CLI screen.
 18. exit - to come out of the current user.
 19. vi <file name> - to enter any content in a file.
+20. nproc - to determine no of cpu's.
+21. free - to determine free memory
+22. df -h - to determine ram
+23. ps -ef - to determine the processes running
+24. ps -ef | grep "any word" - to find processes that contains the word "any word"
