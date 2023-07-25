@@ -34,3 +34,8 @@ The issue can easily be resolved by just searching the error on the internet as 
 22. df -h - to determine ram
 23. ps -ef - to determine the processes running
 24. ps -ef | grep "any word" - to find processes that contains the word "any word"
+25. ps -ef | grep amazon | awk -F" " '{print $2}' - this will print only specific column from processes
+26. curl <url> - retrieve any file from any location and display
+27. wget <url> - to download any file or packages.
+28. find / <file name> - to find any file in your system
+
