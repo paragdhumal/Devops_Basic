@@ -1,0 +1,23 @@
+What is Devops?
+DevOps is a combination of practices, tools, and cultural philosophies that help organizations deliver applications and services faster.
+It's a combination of "development" (Dev) and "operations" (Ops).
+
+Tools Used in DevOps
+1. Git - Version Control Tool
+2. GitHub/Gitlab/BitBucket - Repository Tools
+3. Jenkins - CICD Tools
+4. Terraform - Infrastructure as a Code Tool
+5. Maven - Build Tool
+6. Sonarqube - Testing tool
+7. Docker/Kubernetes - Containerization tools
+8. Prometheus/Grafana - Monitoring Tools
+9. Ansible/Chef/Puppet - Configuration management tools
+
+=>So, basically these tools make Software Development Life Cycle (SDLC) easy.
+=>The developers develop the code, then the code is handled by DevOps Engineer.
+=>Who then configures a pipeline in Jenkins to automatically test, build and deploy the code to the production environment.
+=>Initially there was a methodology called Waterfall, in which the process was linear and sequential. It was difficult to 
+do changes in code once the code was build or tested or deployed.
+=>This methodology was replaced by Agile methodology, in which there was continuous improvement and collaboration across functions.
+=>This methodology was later replaced by DevOps methodlogy. Devops is more of a collaboration between Developers and Operations team.
+The SDLC is automated in Devops. The pipelines will automatically run when code is pushed in Github. 
